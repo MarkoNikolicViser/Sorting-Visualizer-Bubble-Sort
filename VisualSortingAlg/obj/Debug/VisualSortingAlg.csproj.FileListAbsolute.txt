@@ -1,0 +1,9 @@
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\bin\Debug\VisualSortingAlg.exe.config
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\bin\Debug\VisualSortingAlg.exe
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\bin\Debug\VisualSortingAlg.pdb
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\obj\Debug\VisualSortingAlg.csprojAssemblyReference.cache
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\obj\Debug\VisualSortingAlg.Form1.resources
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\obj\Debug\VisualSortingAlg.Properties.Resources.resources
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\obj\Debug\VisualSortingAlg.csproj.GenerateResource.cache
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\obj\Debug\VisualSortingAlg.exe
+C:\Users\MATEBOOK X\source\repos\VisualSortingAlg\VisualSortingAlg\obj\Debug\VisualSortingAlg.pdb
